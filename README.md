@@ -16,9 +16,15 @@ Classes are "special functions," and just as you can definte function expression
 
 ### Passing Classes Creation Tests
 
+![](ClassesCreation.png)
+
 ### Passing Classes Statics Tests
 
+![](ClassesStatic.png)
+
 ### Passing Classes Extends Tests
+
+![](ClassesExtends.png)
 
 ## Destructuring
 
